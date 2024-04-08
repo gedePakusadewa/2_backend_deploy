@@ -84,9 +84,9 @@ CORS_ALLOWED_ORIGINS = [
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'tes12',
-        'USER': 'root',
-        'PASSWORD' : 'temp123',
+        'NAME': 'gdsadewa_tes12',
+        'USER': 'gdsadewa_root',
+        'PASSWORD' : 'CwVKBrkP.2s+',
         'HOST' : 'localhost'
     }
 }
